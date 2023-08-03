@@ -1,7 +1,7 @@
 # Hi there, I'm Caio Machado! 😊
 
 ## About Me 🚀
-I'm a Senior Software Engineer, carrying 11+ years of professional experience in the tech industry, specialized in backend solutions.
+I'm a Senior Solutions Architect, carrying 11+ years of professional experience in the tech industry, specialized in backend solutions.
 
 There are two things that drive me: the first is how fascinating it is to transform something abstract, like an idea, into software; and the second is to empower people to become their best selves.
 
