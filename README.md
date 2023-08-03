@@ -14,7 +14,7 @@ There are two things that drive me: the first is how fascinating it is to transf
 
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver)
 
 ### Technologies
 
