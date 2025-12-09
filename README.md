@@ -1,38 +1,81 @@
-# Hi there, I'm Caio Machado! 😊
+# 👋 Hi there, I'm **Caio Machado**
 
-## About Me 🚀
-I'm a Senior Solutions Architect, carrying 11+ years of professional experience in the tech industry, specialized in backend solutions.
+### **Staff Software Engineer | Tech Lead | .NET & Distributed Systems**
 
-There are two things that drive me: the first is how fascinating it is to transform something abstract, like an idea, into software; and the second is to empower people to become their best selves.
+I’m passionate about designing resilient, scalable, and high-quality software systems. With over **13 years of experience** in backend engineering and technical leadership, I specialize in **Microservices**, **Domain-Driven Design (DDD)**, **Event-Driven Architecture**, and **large-scale distributed systems**.
 
-🎓 I hold a Associates Degree in Computer Technology from Faculty Of Technology.\
-🌱 I'm on track for learning more about Systems Design, Software Architecture, Leadership, Node.js and React.\
+---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
 
-### Languages
+I’ve led several large-scale architectural initiatives, including:
 
+- Migration of a global restaurant platform to a **modern microservices architecture** using DDD  
+- Design of **bounded contexts**, **API contracts**, and **event-driven integrations**  
+- Establishment of engineering best practices (CI/CD, testing, reviews, architecture standards)  
+- Leadership as a **Tech Lead** and **People Manager**  
+- Development of features using **NoSQL**, **messaging queues**, and **async/event-driven workflows**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Languages & Frameworks**
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 
-### Technologies
+### **Architecture & Systems**
+- Microservices & Domain-Driven Design  
+- Event-Driven Architecture  
+- Message-based integrations  
+- Cloud-native systems  
+- Distributed systems & resiliency  
+- API lifecycle & integration standards  
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=githubactions)
 
-## 📫 How to contact me
+---
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/caio-lima-de-melo-machado-ba868528/) or send me an email at caio.lima.melo@gmail.com. I'll do my best to respond ASAP!
+## 🔭 Currently Working On
 
-## 🚧 Currently working on...
-I'm currently working as a Senior Solutions Architect at RDI Software, on an global solution for a food restaraunt chain over 120 countries and 37,500 locations worldwide.
+I’m currently a **Staff Software Engineer at RDI Software**, leading:
 
-The main tecnologies I'm using at this project are:
-- C#
-- C
-- C++
-- Docker
-  
-💬 Feel free to reach out to me for consultations or collaborations
+- Migration to **microservices** using **DDD**  
+- Event-driven integrations across global squads  
+- Modernization of POS systems (Angular → Next.js/React)  
+- NoSQL databases, messaging queues & async communication  
+- Technical governance, architecture reviews & engineering excellence  
+
+---
+
+## 📚 Learning & Exploring
+
+- Advanced Systems Design  
+- Leadership & coaching  
+- Node.js, TypeScript & modern frontend architectures  
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** https://www.linkedin.com/in/caio-machado-ba868528  
+- **Email:** caio.lima.melo@gmail.com  
+
+---
+
+## ⭐ Fun Facts
+
+- I love turning abstract ideas into real software  
+- Passionate about helping engineers grow  
+- Advocate for clean, scalable architecture  
